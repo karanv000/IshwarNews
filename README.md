@@ -3,12 +3,17 @@
 News app that displays NewYork Times most popular articles in a specific section (or all sections) for the latest 1, 7, or 30 days
 
 ## MVVM The app has following packages:
-adapter: It contains all the data adapter componets.
-model: It contains all the data accessing and manipulating components.
-roomdb: it contain room database classes to load offline data
-network: It contains retrofit classes and repositories to connect the API.
-activity: View classes along with their corresponding Presenters.
-utils: Utility classes.
+**adapter**: It contains all the data adapter componets.
+
+**model**: It contains all the data accessing and manipulating components.
+
+**roomdb**: it contain room database classes to load offline data
+
+**network**: It contains retrofit classes and repositories to connect the API.
+
+**activity**: View classes along with their corresponding Presenters.
+
+**utils**: Utility classes.
 
 
 ### Running App:
